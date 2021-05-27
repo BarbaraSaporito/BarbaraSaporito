@@ -2,7 +2,7 @@
 
 ```json{
   "name" : "Barbara Saporito",
-  "age" : "29",
+  "age" : 29,
   "description" : "I really like to learn and I always try to make everything that I do come out in the best possible way",
   "formations" : 
   "ADS" : {
