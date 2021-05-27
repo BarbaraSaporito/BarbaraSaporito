@@ -13,12 +13,12 @@
   },
   
   "experience": {
-  	"Intern It specialist - DB2 dor z/Os": "IBM (2020 - current)",
+   "Intern It specialist - DB2 dor z/Os": "IBM (2020 - current)",
 	
   },
   "linkedin" : "https://www.linkedin.com/in/aparecidasaporito/",
   "skills" : [
-		"Python",
+    "Python",
     "Java",
     "SQL server",
     "HTML 5",
