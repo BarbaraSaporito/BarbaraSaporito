@@ -21,8 +21,8 @@
 		"Python",
     "Java",
     "SQL server",
-	  "HTML 5",
-	  "CSS 3",
+    "HTML 5",
+    "CSS 3",
     "Bootstrap",
     "JavaScript"
 	  ]
@@ -30,9 +30,9 @@
 ````
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraSaporito&hide=contribs,prs&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraSaporito&hide=contribs,prs&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraSaporito&layout=compact&show_icons=true&theme=chartreuse-dark)](https://github.com/BarbaraSaporito/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraSaporito&layout=compact&show_icons=true&theme=gotham)](https://github.com/BarbaraSaporito/github-readme-stats)
 
 
 
