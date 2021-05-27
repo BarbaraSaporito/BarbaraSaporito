@@ -25,7 +25,7 @@
     "CSS 3",
     "Bootstrap",
     "JavaScript"
-	  ]
+	    ]
 }
 ````
 
