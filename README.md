@@ -5,11 +5,11 @@
   "age" : "29",
   "description" : "I really like to learn and I always try to make everything that I do come out in the best possible way",
   "formations" : 
-    "ADS" : {
-            "university" : "Fatec - Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
-            "course" : "Analysis and Development of Systems",
-            "from" : "2019-07",
-            "to" : "actually"   	
+  "ADS" : {
+           "university" : "Fatec - Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
+           "course" : "Analysis and Development of Systems",
+           "from" : "2019-07",
+           "to" : "actually"   	
   },
   
   "experience": {
