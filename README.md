@@ -30,9 +30,7 @@
 ````
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraSaporito&hide=contribs,prs&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraSaporito&layout=compact&show_icons=true&theme=gotham)](https://github.com/BarbaraSaporito/github-readme-stats)
 
 
 
